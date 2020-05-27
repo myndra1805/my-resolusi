@@ -1,6 +1,5 @@
 Daftar keinginan saya kedepannya
-1. Menguasai web html dan css
-2. Menguasai javascript dasar
-3. Menguasai DOM javascript
-4. Menguasai javascript ES 6
-5. Menguasai web component
+1. Menguasai DOM javascript
+2. Menguasai javascript ES 6
+3. Menguasai web component
+4. Menguasai php dasar

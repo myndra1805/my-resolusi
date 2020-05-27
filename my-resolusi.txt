@@ -1,0 +1,4 @@
+Daftar keinginan saya kedepannya
+1. Menguasai web html dan css
+2. Menguasai javascript dasar
+3. Menguasai DOM javascript
